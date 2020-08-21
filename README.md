@@ -1,4 +1,4 @@
-# pandas-Heroes-of-Pymoli 🐼🐼
+# Heroes of Pymoli 🕹 w/ pandas 🐼🐼
 ![pandas picture](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/04-Pandas/Instructions/Images/Fantasy.png?raw=true)  
 
 I've landed a job as a Lead Analyst for a gaming company! Well, not really.  
